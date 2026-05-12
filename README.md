@@ -1,3 +1,3 @@
 # my-project
 my first repository
-author=-nicepool1
+author=nicepool1
